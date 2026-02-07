@@ -16,7 +16,7 @@ A simple, native macOS app for quick temperature conversions between Celsius and
 ### Build from source
 
 ```bash
-git clone https://github.com/bhengen/TempConverter.git
+git clone https://github.com/bjhengen/TempConverter.git
 cd TempConverter
 swift build -c release
 ```
